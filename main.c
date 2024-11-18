@@ -111,6 +111,7 @@ int main()
 
     char choice[3];
 
+    printf("\n\nChoice is: ");
     fgets(choice, sizeof(choice), stdin);
     printf("\n");
 
