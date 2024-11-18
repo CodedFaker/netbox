@@ -4,10 +4,10 @@
 
 // Global string and token variables
 
-char ip[13];
+char ip[16];
 const char p[2] = ".";
 char decimalNum[12];
-char string[13];
+char string[16];
 
 // Function to convert a pre-calculated decimal 32-bit value to dotted decimal notation
 
