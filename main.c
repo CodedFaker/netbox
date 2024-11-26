@@ -98,6 +98,7 @@ unsigned int ipToDecimal(char *)
     return decimalValue;
 }
 
+// Main entry point menu with an infinite loop 
 
 int main()
 {
