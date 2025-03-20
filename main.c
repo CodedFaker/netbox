@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
+Program purpose - Convert decimal value into IP addresses, and vice versa. At some point, it will be converted
+into a command line utility.
+*/ 
+
 // Global string and token variables
 
 char ip[16];
